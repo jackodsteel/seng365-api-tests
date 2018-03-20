@@ -11,7 +11,7 @@ An in-depth paragraph about your project and overview of use.
 ### Dependencies
 
 * SoapUI or SoapUI Pro, download [here](https://www.soapui.org/downloads/latest-release.html) for any platform
-* Test file [here]()
+* The tests file in the base directory of this repo
 
 ### Running tests
 
