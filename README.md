@@ -29,6 +29,7 @@ If a test fails, double click the endpoint to open the specific tests for that e
 You can now see each test. Double click again any red test steps to open that test.
 Expand the lower portion of the new window that shows the Assertions.
 You can see exactly what failed in the assertions there.
+You can re run a specific endpoint by clicking the run button within that endpoint specifically, but you should not re run a single test, as it may rely on a cleared database, which is only done at the start of each endpoint.
 
 ## Authors
 
