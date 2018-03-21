@@ -6,6 +6,8 @@ Simple tests for the SENG365 assignment using SoapUI
 
 Hopefully fairly comprehensive tests for the SENG assignment.
 
+Some of the tests assume multiple users can be logged in at once. This is not a requirement for the actual assignment, so if you have done a single login implementation some tests may fail.
+
 Note that this doesn't test the photos endpoints at all, you'll have to manually test that yourself.
 
 I take no responsibility for any tests the grading checks that I don't ;)
@@ -39,9 +41,19 @@ You can see exactly what failed in the assertions there.
 
 You can re run a specific endpoint by clicking the run button within that endpoint specifically, but you should not re run a single test, as it may rely on a cleared database, which is only done at the start of each endpoint.
 
+## Help
+
+If you cannot get this working, either post on the forum post or make an issue on this repo
+
+If you disagree with any of the test results, make an issue on this repo
+
 ## Authors
 
 Jack Steel - jes143
+
+## Contributing
+
+Feel free to add any tests and make a pull request
 
 ## Version History
 
