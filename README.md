@@ -4,7 +4,9 @@ Simple tests for the SENG365 assignment using SoapUI
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Hopefully fairly comprehensive tests for the SENG assignment.
+Note that this doesn't test the photos endpoints at all, you'll have to manually test that yourself.
+I take no responsibility for any tests the grading checks that I don't ;)
 
 ## Getting Started
 
