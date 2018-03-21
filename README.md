@@ -57,5 +57,9 @@ Feel free to add any tests and make a pull request
 
 ## Version History
 
+* 0.2
+    * Fixed bugs related to inconsistent ordering due to same start times for default auctions
+
+
 * 0.1
     * Initial Release
